@@ -1,0 +1,204 @@
+{
+  "week1": {
+    "monday": [
+      {
+        "name": "Прикладна криптологія",
+        "professor": "Ільєнко А.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 2,
+        "classroom": "https://classroom.google.com/u/0/c/NjU1MjU2ODQ2MTMx",
+        "googleMeet": "https://meet.google.com/jhm-qqrw-ivr"
+      },
+      {
+        "name": "Операційні системи та технології їх захисту",
+        "professor": "Гулак Н.К.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3,
+        "classroom": "https://classroom.google.com/u/0/c/NjU2NzIzNTE1OTQy",
+        "googleMeet": "https://meet.google.com/keo-wrpu-ugg"
+      }
+    ],
+    "tuesday": [
+      {
+        "name": "Захищені комп'ютерні системи та мережі",
+        "professor": "Висоцька О.О.",
+        "pairFormat": "Лекція",
+        "pairNumber": 1,
+        "classroom": "https://classroom.google.com/u/0/c/NjU1MzA3NTAwNzQ4",
+        "googleMeet": "https://meet.google.com/fha-ccdo-zqs"
+      },
+      {
+        "name": "Управління інформаційною безпекою",
+        "professor": "Казмірчук С.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 2,
+        "classroom": "https://classroom.google.com/u/0/c/NjUzMzI3NTgxMTMw",
+        "googleMeet": "https://meet.google.com/foz-mdau-gxk"
+      }
+    ],
+    "wednesday": [
+      {
+        "name": "День військової підготовки",
+        "professor": "---",
+        "pairFormat": "---",
+        "pairNumber": 1
+      }
+    ],
+    "thursday": [
+      {
+        "name": "Прикладна криптологія",
+        "professor": "Ракицький В.А.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 1,
+        "classroom": "https://classroom.google.com/u/0/c/NjU0OTcwMTkxNzA2",
+        "googleMeet": "https://meet.google.com/tey-pdcj-ufn"
+      },
+      {
+        "name": "Прикладна криптологія",
+        "professor": "Ракицький В.А.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 2,
+        "classroom": "https://classroom.google.com/u/0/c/NjU0OTcwMTkxNzA2",
+        "googleMeet": "https://meet.google.com/tey-pdcj-ufn"
+      },
+      {
+        "name": "Управління веб-контентом",
+        "professor": "Вишневська Н.С",
+        "pairFormat": "Лекція",
+        "pairNumber": 3,
+        "classroom": "https://classroom.google.com/u/0/c/NjU2Nzk2OTg4MzE0",
+        "googleMeet": "https://meet.google.com/urn-kzvm-dtf"
+      },
+      {
+        "name": "Захищені комп'ютерні системи та мережі",
+        "professor": "Кочеткова О.В.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 4
+      }
+    ],
+    "friday": [
+      {
+        "name": "Авіаційна безпека та кібербезпека авіаційних інф",
+        "professor": "Іванченко В.П.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 2,
+        "classroom": "https://classroom.google.com/u/0/c/NTg2OTY5NTcwODYx",
+        "googleMeet": "https://meet.google.com/vhe-uaix-spr"
+      },
+      {
+        "name": "Авіаційна безпека та кібербезпека авіаційних інф",
+        "professor": "Іванченко В.П.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 3,
+        "classroom": "https://classroom.google.com/u/0/c/NTg2OTY5NTcwODYx",
+        "googleMeet": "https://meet.google.com/vhe-uaix-spr"
+      }
+    ]
+  },
+  "week2": {
+    "monday": [
+      {
+        "name": "Прикладна криптологія",
+        "professor": "Ільєнко А.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 2,
+        "classroom": "https://classroom.google.com/u/0/c/NjU1MjU2ODQ2MTMx",
+        "googleMeet": "https://meet.google.com/jhm-qqrw-ivr"
+      },
+      {
+        "name": "Операційні системи та технології їх захисту",
+        "professor": "Гулак Н.К.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3,
+        "classroom": "https://classroom.google.com/u/0/c/NjU2NzIzNTE1OTQy",
+        "googleMeet": "https://meet.google.com/keo-wrpu-ugg"
+      },
+      {
+        "name": "Операційні системи та технології їх захисту",
+        "professor": "Майстренко А.А.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 4,
+        "classroom": "https://classroom.google.com/u/0/c/NjU1MzcxNzc5Mzgy",
+        "googleMeet": "https://meet.google.com/hbb-icwq-utv"
+      }
+    ],
+    "tuesday": [
+      {
+        "name": "Захищені комп'ютерні системи та мережі",
+        "professor": "Висоцька О.О.",
+        "pairFormat": "Лекція",
+        "pairNumber": 1,
+        "classroom": "https://classroom.google.com/u/0/c/NjU1MzA3NTAwNzQ4",
+        "googleMeet": "https://meet.google.com/fha-ccdo-zqs"
+      },
+      {
+        "name": "Управління інформаційною безпекою",
+        "professor": "Казмірчук С.В.",
+        "pairFormat": "Лекція",
+        "pairNumber": 2,
+        "classroom": "https://classroom.google.com/u/0/c/NjUzMzI3NTgxMTMw",
+        "googleMeet": "https://meet.google.com/foz-mdau-gxk"
+      }
+    ],
+    "wednesday": [
+      {
+        "name": "День військової підготовки",
+        "professor": "---",
+        "pairFormat": "---",
+        "pairNumber": 1
+      }
+    ],
+    "thursday": [
+      {
+        "name": "Управління веб-контентом",
+        "professor": "Вишневська Н.С",
+        "pairFormat": "Лекція",
+        "pairNumber": 3,
+        "classroom": "https://classroom.google.com/u/0/c/NjU2Nzk2OTg4MzE0",
+        "googleMeet": "https://meet.google.com/urn-kzvm-dtf"
+      },
+      {
+        "name": "Управління інформаційною безпекою",
+        "professor": "Бурбела О.О.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 4,
+        "classroom": "https://classroom.google.com/u/0/c/NjU0OTQ1NzI5MDQ5",
+        "googleMeet": "https://meet.google.com/wsw-qtso-nrd"
+      }
+    ],
+    "friday": [
+      {
+        "name": "Управління веб-контентом",
+        "professor": "Вишневська Н.С.",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 1,
+        "classroom": "https://classroom.google.com/u/0/c/NjU2Nzk2OTg4MzE0",
+        "googleMeet": "https://meet.google.com/urn-kzvm-dtf"
+      },
+      {
+        "name": "Аналіз ефективності систем кібербезпеки (Наразі не ведеться)",
+        "professor": "не ведеться",
+        "pairFormat": "Лабораторна",
+        "pairNumber": 2,
+        "classroom": "",
+        "googleMeet": ""
+      },
+      {
+        "name": "Аналіз ефективності систем кібербезпеки (Наразі не ведеться)",
+        "professor": "не ведеться",
+        "pairFormat": "Лекція",
+        "pairNumber": 3,
+        "classroom": "",
+        "googleMeet": ""
+      },
+      {
+        "name": "Авіаційна безпека та кібербезпека авіаційних інф",
+        "professor": "Шульга Іванченко В.П.",
+        "pairFormat": "Лекція",
+        "pairNumber": 4,
+        "classroom": "https://classroom.google.com/u/0/c/NTg2OTY5NTcwODYx",
+        "googleMeet": "https://meet.google.com/vhe-uaix-spr"
+      }
+    ]
+  }
+}
