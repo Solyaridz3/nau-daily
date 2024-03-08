@@ -92,6 +92,14 @@
         "pairNumber": 3,
         "classroom": "https://classroom.google.com/u/0/c/NTg2OTY5NTcwODYx",
         "googleMeet": "https://meet.google.com/vhe-uaix-spr"
+      },
+      {
+        "name": "Аналіз ефективності систем кібербезпеки",
+        "professor": "Коваленко Ю.Б.",
+        "pairFormat": "Лекція",
+        "pairNumber": 3,
+        "classroom": "https://classroom.google.com/u/0/c/NjU2Njg0NjI0NTMx",
+        "googleMeet": "https://meet.google.com/iro-oqza-zzr"
       }
     ]
   },
@@ -176,20 +184,20 @@
         "googleMeet": "https://meet.google.com/urn-kzvm-dtf"
       },
       {
-        "name": "Аналіз ефективності систем кібербезпеки (Наразі не ведеться)",
-        "professor": "не ведеться",
+        "name": "Аналіз ефективності систем кібербезпеки",
+        "professor": "Коваленко Ю.Б.",
         "pairFormat": "Лабораторна",
         "pairNumber": 2,
-        "classroom": "",
-        "googleMeet": ""
+        "classroom": "https://classroom.google.com/u/0/c/NjU2Njg0NjI0NTMx",
+        "googleMeet": "https://meet.google.com/iro-oqza-zzr"
       },
       {
-        "name": "Аналіз ефективності систем кібербезпеки (Наразі не ведеться)",
-        "professor": "не ведеться",
+        "name": "Аналіз ефективності систем кібербезпеки",
+        "professor": "Коваленко Ю.Б.",
         "pairFormat": "Лекція",
         "pairNumber": 3,
-        "classroom": "",
-        "googleMeet": ""
+        "classroom": "https://classroom.google.com/u/0/c/NjU2Njg0NjI0NTMx",
+        "googleMeet": "https://meet.google.com/iro-oqza-zzr"
       },
       {
         "name": "Авіаційна безпека та кібербезпека авіаційних інф",
