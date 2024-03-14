@@ -73,7 +73,9 @@
         "name": "Захищені комп'ютерні системи та мережі",
         "professor": "Кочеткова О.В.",
         "pairFormat": "Лабораторна",
-        "pairNumber": 4
+        "pairNumber": 4,
+        "classroom": "https://classroom.google.com/c/NjU1MTk2MTQxODE0",
+        "googleMeet": "https://meet.google.com/xvn-vtzr-pgy"
       }
     ],
     "friday": [
