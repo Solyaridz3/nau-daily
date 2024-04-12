@@ -1,10 +1,12 @@
 import DayLi from "./DayLi.tsx";
 import {DayOfTheWeekEng, DayOfTheWeekKeys, DaysOfTheWeek} from "../App.tsx";
 
-interface ISide{
+interface ISide {
     week: 'week1' | 'week2';
     active: number;
+
     changeDayOfTheWeek(e: MouseEvent, newDay: DayOfTheWeekKeys, newActive: number): void;
+
     daysOfTheWeekEng: readonly DayOfTheWeekEng[];
     daysOfTheWeek: DaysOfTheWeek;
 }
