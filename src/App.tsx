@@ -75,13 +75,14 @@ function turnNotifications(pairs: IPair[]) {
             const todayNotifications = getTodayNotifications(pairs);
 
             setInterval(() => {
-                const d = new Date("April 12 2024 13:29");
+                const d = new Date();
                 const time = `${d.getHours()}:${d.getMinutes()}`;
                 const sent = localStorage.getItem("sent") === "true";
-                console.log(sent);
                 for (const notification of todayNotifications) {
                     if (time === notification.split(" - ")[1] && !sent) {
-                        const not = new Notification(notification);
+                        const not = new Notification(
+                            "За розкладом починається пара\n" + notification,
+                        );
                         localStorage.setItem("sent", "true");
                         setTimeout(() => not.close(), 15000);
                     }
