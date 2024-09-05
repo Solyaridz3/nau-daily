@@ -24,7 +24,7 @@ const Navbar = (props: INav) => {
         <ul className={`${!isMenuOpen && 'hidden'}`}>
             <DayLi active={props.active === 0} dayKey={0} onClick={props.changeDayOfTheWeek} dayName="today"
                    text="Сьогодні"/>
-            {props.daysOfTheWeekEng.slice(0, 5).map((day, index) => {
+            {props.daysOfTheWeekEng.slice(0, 6).map((day, index) => {
                 return <DayLi
                     active={props.active === index + 1}
                     onClick={props.changeDayOfTheWeek}
