@@ -17,7 +17,7 @@ const Navbar = (props: INav) => {
     const [isMenuOpen, setIsMenuOpen] = useState<boolean>(false);
 
     return <nav
-        className={"md:hidden overflow-hidden p-2 border-blue-100 bg-blue-500 w-full fixed top-0 transition-all " + `${isMenuOpen && 'h-[23rem]' || 'h-14'}`}>
+        className={"md:hidden overflow-hidden p-2 border-blue-100 bg-blue-500 w-full fixed top-0 transition-all " + `${isMenuOpen && 'h-[26.5rem]' || 'h-14'}`}>
         <button onClick={() => setIsMenuOpen(!isMenuOpen)} className={"w-10 h-10"}>
             <img src={menuIcon} alt="menu"></img>
         </button>
@@ -25,6 +25,7 @@ const Navbar = (props: INav) => {
             <DayLi active={props.active === 0} dayKey={0} onClick={props.changeDayOfTheWeek} dayName="today"
                    text="Сьогодні"/>
             {props.daysOfTheWeekEng.slice(0, 6).map((day, index) => {
+                console.log(day);
                 return <DayLi
                     active={props.active === index + 1}
                     onClick={props.changeDayOfTheWeek}
