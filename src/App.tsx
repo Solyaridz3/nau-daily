@@ -17,8 +17,10 @@ export interface IWeek {
     [key: string]: IPair[];
 }
 
+
+
 const getWeek = (date: Date): number => {
-    const startDate = new Date("February 23 2024 23:59:59");
+    const startDate = new Date("February 16 2024 23:59:59");
     const nowDate = new Date(date);
     const dayDifference = nowDate.getTime() - startDate.getTime();
     const daysSinceDate = dayDifference / (24 * 60 * 60 * 1000);

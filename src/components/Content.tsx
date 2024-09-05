@@ -8,7 +8,7 @@ interface IContent{
 }
 
 const Content = (props: IContent) => {
-    const dayOff = props.dayNumber > 4;
+    const dayOff = props.dayNumber > 5;
     return <div className="content min-h-dvh bg-blue-50 w-full flex justify-center py-20">
         <div className="shedule sm:w-full md:w-2/3 px-6 flex flex-col gap-6 h-fit">
             <h1 className="text-3xl text-center mb-4">{props.textToShow}</h1>
