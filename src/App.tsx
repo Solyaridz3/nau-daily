@@ -17,8 +17,6 @@ export interface IWeek {
     [key: string]: IPair[];
 }
 
-
-
 const getWeek = (date: Date): number => {
     const startDate = new Date("February 16 2024 23:59:59");
     const nowDate = new Date(date);
