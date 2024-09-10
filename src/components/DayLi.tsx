@@ -1,4 +1,4 @@
-import {DayOfTheWeekKeys} from "../App.tsx";
+import {DayOfTheWeekKeys} from "../App";
 
 const DayLi = (props: {
     active: boolean,

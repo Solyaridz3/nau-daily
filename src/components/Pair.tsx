@@ -1,5 +1,5 @@
 import pairTime from "../data/pairTime.json";
-import { IPair } from "../App.tsx";
+import { IPair } from "../App";
 import classRoomsData from "../data/classRooms.json";
 
 type ClassRooms = {

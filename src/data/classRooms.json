@@ -23,9 +23,17 @@
         "Захищені мережеві протоколи": {
             "classroom": "https://classroom.google.com/c/NzA4MjM1NDk5Mzc2",
             "googleMeet": "https://meet.google.com/sqo-wxpa-cot"
+        },
+        "Прикладна криптологія": {
+            "classroom": "https://classroom.google.com/c/NjU1MjU2ODQ2MTMx",
+            "googleMeet": "https://meet.google.com/jhm-qqrw-ivr"
         }
     },
     "Лабораторна": {
+        "Операційні системи та технології їх захисту": {
+            "classroom": "https://classroom.google.com/c/NzA0OTA3NTQwNjA1",
+            "googleMeet": "https://meet.google.com/ctr-qgfe-eok"
+        },
         "Основи інтернет-технологій": {
             "classroom": "https://classroom.google.com/c/Njg1MjY1NDU2Mzk0",
             "googleMeet": "https://meet.google.com/zrq-yuwu-jop"

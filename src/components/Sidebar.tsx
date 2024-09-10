@@ -1,5 +1,5 @@
-import DayLi from "./DayLi.tsx";
-import {DayOfTheWeekEng, DayOfTheWeekKeys, DaysOfTheWeek} from "../App.tsx";
+import DayLi from "./DayLi";
+import {DayOfTheWeekEng, DayOfTheWeekKeys, DaysOfTheWeek} from "../App";
 
 interface ISide {
     week: 'week1' | 'week2';

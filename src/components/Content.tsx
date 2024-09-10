@@ -1,5 +1,5 @@
-import Pair from "./Pair.tsx";
-import {IPair} from "../App.tsx";
+import Pair from "./Pair";
+import {IPair} from "../App";
 
 interface IContent{
     textToShow: string;

@@ -1,7 +1,7 @@
 import menuIcon from "/menu.svg";
-import DayLi from "./DayLi.tsx";
+import DayLi from "./DayLi";
 import {useState} from "react";
-import {DayOfTheWeekEng, DayOfTheWeekKeys, DaysOfTheWeek} from "../App.tsx";
+import {DayOfTheWeekEng, DayOfTheWeekKeys, DaysOfTheWeek} from "../App";
 
 
 interface INav {

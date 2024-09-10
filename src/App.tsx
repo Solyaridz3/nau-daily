@@ -1,7 +1,7 @@
 import "./App.css";
 import data from "./data/DataBase.json";
-import Panels from "./components/Panels.tsx";
-import Content from "./components/Content.tsx";
+import Panels from "./components/Panels";
+import Content from "./components/Content";
 import { useEffect, useRef, useState } from "react";
 
 export interface IPair {
